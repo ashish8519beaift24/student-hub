@@ -35,3 +35,4 @@ Student Hub is a comprehensive web application designed to help students track t
 ## 👨‍💻 Author
 
 Developed to assist students in their academic journey!# student-hub
+# student-hub
